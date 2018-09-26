@@ -8,3 +8,6 @@ post /calculate
 
 @json
 get /query
+
+@text
+/text
