@@ -5,3 +5,6 @@ harm-b3u
 get /
 get /about
 post /calculate
+
+@json
+get /query
