@@ -7,7 +7,7 @@ let defaultHTML = `
   <head>
     <meta charset=utf-8>
     <title>Hi!</title>
-    <link rel="stylesheet" href="https://static.begin.app/starter/default.css">
+    <link rel="stylesheet" href="https://harm-b3u-staging.begin.app/">
   </head>
   <body>
 
