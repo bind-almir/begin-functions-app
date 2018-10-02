@@ -7,16 +7,16 @@ let defaultHTML = `
   <head>
     <meta charset=utf-8>
     <title>Hi!</title>
-    <link rel="stylesheet" href="https://harm-b3u-staging.begin.app/style">
+    <link rel="preload" href="https://harm-b3u-staging.begin.app/style" as="style">
   </head>
   <body>
 
-    <h1 class="center-text">
+    <h1>
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
       Hello world!
     </h1>
 
-    <p class="center-text">
+    <p>
       Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
     </p>
 
