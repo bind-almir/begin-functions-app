@@ -6,6 +6,9 @@ get /
 get /about
 post /calculate
 
+@css
+/style
+
 @json
 get /query
 
